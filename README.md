@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shreyash-Sakarkar
+- 👋 Hi, I’m @Shreyash-Sakharkar
 - 👀 I’m interested in Sport Cars & Bikes, Data Analyst
 - 🌱 I’m currently learning Data Analyst, Data Visualization
 - 💞️ I’m looking to collaborate on ...
